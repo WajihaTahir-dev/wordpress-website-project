@@ -17,9 +17,6 @@ The project combines WordPress development with SEO and performance optimization
 
 - WordPress
 - Elementor
-- HTML
-- CSS
-- JavaScript
 - SEO
 - Responsive Web Design
 - Website Performance Optimization
